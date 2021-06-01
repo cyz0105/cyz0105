@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![cyz0105's github stats](https://github-readme-stats.vercel.app/api?username=cyz0105&show_icons=true)](https://github.com/cyz0105)
 <!--
 **cyz0105/cyz0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
